@@ -117,7 +117,7 @@ public class MainPresenter {
             Intent intent = new Intent(mainActivity, HistoryActivity.class);
             mainActivity.startActivity(intent);
         } else {
-            Toast.makeText(mainActivity, "Look at some repositories to see the history"
+            Toast.makeText(mainActivity, R.string.look_at_some_repositories
                     , Toast.LENGTH_SHORT).show();
         }
     }

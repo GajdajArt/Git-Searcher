@@ -6,4 +6,5 @@
     <string name="nothing_found">This organization was not found</string>
     <string name="history_is_empty">history is empty</string>
     <string name="something_went_wrong">Oops! Something went wrong</string>
+    <string name="look_at_some_repositories">Look at some repositories to see the history</string>
 </resources>
