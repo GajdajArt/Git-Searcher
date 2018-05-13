@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Git Searcher</string>
+    <string name="github_repository">Organization</string>
+    <string name="history">search history</string>
+    <string name="hint">Enter the name of the organization</string>
+    <string name="nothing_found">This organization was not found</string>
+    <string name="history_is_empty">history is empty</string>
+    <string name="something_went_wrong">Oops! Something went wrong</string>
+</resources>
